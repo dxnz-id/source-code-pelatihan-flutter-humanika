@@ -32,7 +32,7 @@ class _Tugas5State extends State<Tugas5> {
                 margin: const EdgeInsets.all(50.0),
                 child: ClipOval(
                   child: Image.asset(
-                    "assets/images/dxnz.png",
+                    "assets/images/user.jpg",
                     width: 150.0,
                     height: 150.0,
                     fit: BoxFit.fill,
